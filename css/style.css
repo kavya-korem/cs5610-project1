@@ -280,8 +280,7 @@ h3 {
 .home-section,
 .about-section,
 .bookshelf-section,
-.finder-section,
-.ai-corner {
+.finder-section {
   padding: 110px 0;
 
   border-top: 1px solid var(--line);
@@ -710,59 +709,6 @@ h3 {
 }
 
 /* =========================================================
-   AI CORNER
-   ========================================================= */
-
-.ai-note {
-  max-width: 700px;
-
-  margin: 40px 0 0;
-
-  color: var(--muted);
-
-  font-size: 0.95rem;
-}
-
-.ai-taglines {
-  display: grid;
-
-  grid-template-columns: repeat(3, 1fr);
-
-  gap: 25px;
-
-  margin: 40px 0 0;
-  padding: 0;
-
-  list-style: none;
-}
-
-.ai-taglines li {
-  padding: 25px;
-
-  background: var(--surface);
-
-  border: 1px solid var(--line);
-}
-
-.ai-taglines strong {
-  display: block;
-
-  margin-bottom: 10px;
-
-  color: var(--forest);
-
-  font-size: 1rem;
-}
-
-.ai-taglines span {
-  color: var(--muted);
-
-  font-size: 0.88rem;
-
-  font-style: italic;
-}
-
-/* =========================================================
    BOOK FINDER
    ========================================================= */
 
@@ -973,12 +919,6 @@ h3 {
     grid-template-columns: 1fr;
 
     max-width: 350px;
-  }
-
-  .ai-taglines {
-    grid-template-columns: 1fr;
-
-    max-width: 400px;
   }
 
   .finder {
