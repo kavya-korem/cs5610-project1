@@ -6,8 +6,9 @@ Kavya Kusuma Reddy Korem ([korem.k@northeastern.edu](mailto:korem.k@northeastern
 
 ## Class Link
 
-CS5610 Web Development, Northeastern University — Fall 2026.
-Course page: `[ADD THE COURSE'S PUBLIC PAGE / SYLLABUS LINK HERE]`
+CS5610.18490 Web Development, Northeastern University — Fall 2026 Semester
+Full Term. Course materials are hosted on Canvas (login required for
+Northeastern students/staff), so no public course URL is available.
 
 ## Project Objective
 
@@ -20,8 +21,7 @@ organized `css/`, `js/`, and `images/` folders, and loaded as ES6 modules.
 
 ## Screenshot
 
-`[ADD A SCREENSHOT OF THE DEPLOYED HOME PAGE HERE, e.g. docs/screenshot.png,
-then reference it as: ![Homepage screenshot](docs/screenshot.png)]`
+![Homepage screenshot](docs/screenshot.png)
 
 ## Live Site
 
