@@ -3,7 +3,7 @@
 ## 1. Project Description
 
 This is my personal homepage for CS5610 (Web Development) at Northeastern.
-It's a small static site — just HTML5, CSS3, and vanilla ES6+ JavaScript.
+It's a small static site using HTML5, CSS3, and vanilla ES6+ JavaScript.
 No frameworks, no component libraries, no jQuery. The only tooling I added
 on top is ESLint and Prettier, purely for code quality while I was writing
 it.
