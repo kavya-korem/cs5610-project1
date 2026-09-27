@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+
+  <rect width="400" height="600" fill="#d0c6b4"/>
+
+  <rect
+    x="28"
+    y="28"
+    width="344"
+    height="544"
+    fill="none"
+    stroke="#263b30"
+    stroke-width="2"
+  />
+
+  <text
+    x="200"
+    y="175"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="31"
+    fill="#263b30"
+  >THE COUNT OF</text>
+
+  <text
+    x="200"
+    y="220"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="34"
+    fill="#263b30"
+  >MONTE</text>
+
+  <text
+    x="200"
+    y="265"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="34"
+    fill="#263b30"
+  >CRISTO</text>
+
+  <line
+    x1="100"
+    y1="310"
+    x2="300"
+    y2="310"
+    stroke="#263b30"
+    stroke-width="2"
+  />
+
+  <text
+    x="200"
+    y="360"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="16"
+    fill="#526b5c"
+  >ALEXANDRE DUMAS</text>
+
+</svg>

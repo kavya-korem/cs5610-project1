@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 600">
+
+  <rect width="400" height="600" fill="#d9c9b5"/>
+
+  <rect
+    x="28"
+    y="28"
+    width="344"
+    height="544"
+    fill="none"
+    stroke="#263b30"
+    stroke-width="2"
+  />
+
+  <text
+    x="200"
+    y="180"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="38"
+    fill="#263b30"
+  >A LITTLE</text>
+
+  <text
+    x="200"
+    y="225"
+    text-anchor="middle"
+    font-family="Georgia, serif"
+    font-size="38"
+    fill="#263b30"
+  >LIFE</text>
+
+  <line
+    x1="100"
+    y1="270"
+    x2="300"
+    y2="270"
+    stroke="#263b30"
+    stroke-width="2"
+  />
+
+  <text
+    x="200"
+    y="320"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="16"
+    fill="#526b5c"
+  >HANYA YANAGIHARA</text>
+
+</svg>
