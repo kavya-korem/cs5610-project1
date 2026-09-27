@@ -10,15 +10,15 @@ it.
 
 I wanted the site to do three things for me:
 
-1. Give someone who doesn't know me yet — a recruiter, a classmate, my
-   professor — a fast, honest read on who I am, what I actually know, and
+1. Give someone who doesn't know me yet, a recruiter, a classmate, my
+   professor, a fast, honest read on who I am, what I actually know, and
    what I've built.
 2. Show real, working front-end code instead of just talking about it.
    The book finder on the Bookshelf page is the piece that does this —
    it's genuine DOM manipulation and event handling, nothing pulled in
    from a library.
 3. Show a bit of my personality and not just a resume in HTML form.
-   That's really the whole reason the Bookshelf page exists — it's the
+   That's really the whole reason the Bookshelf page exists, it's the
    one page on the site that isn't strictly "professional."
 
 There are three pages, and they all share one look so the site feels like
@@ -47,7 +47,7 @@ if something catches her attention. If she can't find a way to reach out
 in a few seconds, she just moves on.
 
 What that means for the site: skills and projects can't be buried a few
-scrolls down — they're both right on the home page — and my
+scrolls down, they're both right on the home page — and my
 email/GitHub/LinkedIn are in the footer of every page so she never has to
 go looking.
 
@@ -82,8 +82,8 @@ I'm a CS student at all.
    whether she's worth a closer look.
 2. As Priya, I want a working email/GitHub/LinkedIn link on every page,
    so I don't have to go searching for a way to reach out.
-3. As Sam, I want every nav link to lead to a complete, real page — not a
-   stub — so I can confirm the site actually has the pages the rubric
+3. As Sam, I want every nav link to lead to a complete, real page, not a
+   stub, so I can confirm the site actually has the pages the rubric
    asks for.
 4. As Sam, I want the book finder to return something sensible no matter
    which genre and mood I pick, so I know the "original JS feature" isn't
