@@ -27,6 +27,10 @@ organized `css/`, `js/`, and `images/` folders, and loaded as ES6 modules.
 
 Deployed via GitHub Pages: [`https://kavya-korem.github.io/cs5610-project1/`](https://kavya-korem.github.io/cs5610-project1/)
 
+## Video Demo
+
+[Short narrated walkthrough of the site](https://youtu.be/vr1FiaU9wmw)
+
 ## Instructions to Build / Run Locally
 
 This is a static site with no build step required to view it.
