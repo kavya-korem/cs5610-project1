@@ -66,7 +66,7 @@ need to use real semantic HTML instead of cutting corners.
 ### Alex — a random book lover
 
 Alex found the site through a shared link and has zero interest in my
-resume — he just wants something to read next. He skips Home and About
+resume, he just wants something to read next. He skips Home and About
 entirely and goes straight to the Bookshelf, and he'll use the finder
 instead of my three listed books, since those might not match what he's
 in the mood for.
